@@ -10,6 +10,7 @@ namespace VSGitDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHub: Hello world!");
         }
     }
 }
