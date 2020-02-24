@@ -11,6 +11,7 @@ namespace VSGitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("GitHub: Hello world!");
+            Console.WriteLine("VS2017: Hello world!");
         }
     }
 }
