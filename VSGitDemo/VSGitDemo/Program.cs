@@ -14,6 +14,7 @@ namespace VSGitDemo
             Console.WriteLine("VS2017: Hello world!");
             // Update from feature
             // Update from GitHub
+            // Update from feature
         }
     }
 }
