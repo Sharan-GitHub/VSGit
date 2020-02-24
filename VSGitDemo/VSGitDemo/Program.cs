@@ -12,6 +12,7 @@ namespace VSGitDemo
         {
             Console.WriteLine("GitHub: Hello world!");
             Console.WriteLine("VS2017: Hello world!");
+            //Update from feature
         }
     }
 }
